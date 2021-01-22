@@ -14,7 +14,16 @@
 * SQL can create views in a database
 * SQL can set permissions on tables, procedures, and views
 
-**RDBMS**
+Database???
+
+**RDBMS**...**MySQL, SQL ,Server Oracle**
 * RDBMS stands for Relational Database Management System.
 * RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
 
+Database Management System
+->Relational && NoSQL(no-relation)
+**SQL**
+* SELECT
+* FROM
+* WHERE
+* ORDER By
